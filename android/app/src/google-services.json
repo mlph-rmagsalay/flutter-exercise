@@ -1,0 +1,29 @@
+{
+    "project_info": {
+        "project_number": "667995345877",
+        "project_id": "equipment-exer",
+        "storage_bucket": "equipment-exer.appspot.com"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:667995345877:android:457616a27b13c05f81635c",
+                "android_client_info": {
+                    "package_name": "com.example.flutter_exercise"
+                }
+            },
+            "oauth_client": [],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyBiPmDwxDzlPEgqXXOaPG0HCh-43NJOvCQ"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": []
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}
